@@ -226,6 +226,7 @@ Qualify for diff plan depending on spend.
 
 **Enterprise On-Ramp**: production or business critical workloads
 - Access to a pool of **Technical Account Managers** (TAM)
+- Online training with self-paced labs
 - **Concierge Support Team** (billing & account best practices)
 - **Infra Event Management, Well-Architected & Operations Reviews**
 - **Business-critical system down**: < 30 min
