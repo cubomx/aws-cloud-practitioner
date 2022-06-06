@@ -22,7 +22,7 @@ Benefits:
 - Suitable for OLTP workloads
 
 **Aurora**:
-- Supports PostreSQL & MySQL
+- Supports PostgreSQL & MySQL
 - Cloud optimized, 5X over MySQL, 3x over Postgres
 - Proprietary tech from AWS
 
@@ -66,7 +66,7 @@ it is OLAP (Online Analytical Processing) -> analytics & **data warehousing**
 Create Hadoop cluster (**Big Data**):
 - Analyze & process vast amount of data
 - Can be made of hundreds of EC2 instances
-- Supports Apache Spark, HBase, Presto, Flinks
+- Supports **Apache Spark, HBase, Presto, Flinks**
 - It take cares of all the provisioning & config
 - AS & integrated with Spot instances
 - **For**: data processing, ML, web index, Big Data
@@ -96,7 +96,7 @@ business insights using data
 ## Amazon Neptune
 Full managed **graph DB** for **group dataset** (e. g. a social net)
 - HA across 3 AZ, up to 15 read replicas
-- Highly connected datasets
+- **Highly connected datasets**
 - Store up to Bs of relations & query the graph with ms lat
 - For: 
     - Knowledge graphs (Wikipedia)
@@ -104,7 +104,7 @@ Full managed **graph DB** for **group dataset** (e. g. a social net)
     - Recommendation engines
     - Social net
 
-## Amazon QLDB (Quantom Ledger DB)
+## Amazon QL DB (Quantom Ledger DB)
 A **ledger**: book recording financial transactions
 - Fully managed, serverless, HA, replication across 3 AZ
 - **Review history** of all changes made to your app data

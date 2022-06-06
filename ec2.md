@@ -31,7 +31,7 @@ Convention name, e. g: `m5.2xlarge`
 **General Purpose**: diversity of workloads (web servers/code repos).
     - Balance between *compute, memory & networking*
 
-**Compute Optmizied**: high perfomance processors.
+**Compute Optimizied**: high perfomance processors.
     - Batch
     - Media transconding
     - HP web servers/computing

@@ -13,7 +13,7 @@ of compute power, DB storage, apps, and other IT resources.
 
 Important characteristics:
 - **On-demand & self-service**: you can lauch whenever you want without manual intervention
-- **Elasticity**: scaleing anytime (up/down)
+- **Elasticity**: scaling anytime (up/down)
 - **Measured Service**: pay for/what you use
 
 Benefits:

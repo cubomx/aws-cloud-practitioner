@@ -17,18 +17,19 @@ Allow instance in **Private Subnets** to access Internet while remaining private
 
 ## Network Security
 First line of security: **NACL** (Network ACL) -> A Firewall
-    - Controls traffic from & to subnet
-    - ALLOW/DENY
-    - Only IP addresses
-    - Subnet level
-    - Explicit allow
-    - Stateless
+- Controls traffic from & to subnet
+- ALLOW/DENY
+- Only IP addresses
+- Subnet level
+- Explicit allow
+- Stateless
+
 **Security Groups**: Firewall that
-    - Controls traffic to & from an ENI/**EC2 Instance**
-    - ALLOW ruless
-    - IP addresses & other SGs
-    - Automatically allowed, regardless of any rules
-    - Stateful
+- Controls traffic to & from an ENI/**EC2 Instance**
+- ALLOW ruless
+- IP addresses & other SGs
+- Automatically allowed, regardless of any rules
+- Stateful
 
 ## VPC Flow Logs
 - Info about iP traffic going into ur interfaces:
